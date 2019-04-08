@@ -1,4 +1,4 @@
-<html><body><h2>Privacy Policy</h2> <p>  This SERVICE is provided by  at no cost.
+<html><body>This SERVICE is provided by  at no cost.
                   </p> <p>This page is used to inform visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
                   </p> <p>If you choose to use my Service, then you agree to the collection and use of information in relation
