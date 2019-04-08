@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  <meta name="viewport" content="width=device-width"> <title>Privacy Policy</title> <style>body{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; padding:1em;}</style></head> <body><h2>Privacy Policy</h2> <p>  This SERVICE is provided by  at no cost.
+<html><body><h2>Privacy Policy</h2> <p>  This SERVICE is provided by  at no cost.
                   </p> <p>This page is used to inform visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
                   </p> <p>If you choose to use my Service, then you agree to the collection and use of information in relation
